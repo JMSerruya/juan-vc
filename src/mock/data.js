@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     "Currently I'm the Founder and CEO of Datia, a technology company that has the vision to work to accelerate the world's transition towards sustainable finance.",
   paragraphThree:
-    'I am investing in early stage tech companies at the pre seed and seed stage, my check size is 25-50K EUR and my main contribution to you besides money is to help you build a world class and product organisation.',
+    'I am investing in early stage tech companies at the pre seed and seed stage, my check size is 25-50K EUR and my main contribution besides money is to help you build a world class and product organisation.',
   resume: 'https://www.linkedin.com/in/jmserruya/', // if no resume, the button will not show up
 };
 
