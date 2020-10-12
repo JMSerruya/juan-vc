@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Hi! I am a technologist that spent the last two decades building software as an engineer and engineering leader. I recently left my job at Spotify after 6 years, there, I lead a product organisation of 60 folks and experienced what it's like to grow at tremendous speed and eventually execute a multi billion dollar IPO",
+    "Hi! I am a technologist that spent the last two decades building at startups, from small bootstrapped efforts to 6 years at Spotify.",
   paragraphTwo:
-    "Currently I'm the Founder and CEO of Datia, a technology company that has the vision to work to accelerate the world's transition towards sustainable finance.",
+    "I am investing in early stage tech companies at the pre seed and seed stage, I look for teams that can build and ship their own product and prioritize talking to customers.",
   paragraphThree:
-    'I am investing in early stage tech companies at the pre seed and seed stage, my check size is 25-50K EUR and my main contribution besides money is to help you build a world class and product organisation.',
+    'I write 20K to 50K Euro checks, if you\'re looking for capital and think we could be a fit, don\'t hesitate to reach out.',
   resume: 'https://www.linkedin.com/in/jmserruya/', // if no resume, the button will not show up
 };
 
