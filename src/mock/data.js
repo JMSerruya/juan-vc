@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    "Hi! I am a technologist that spent the last two decades building software as an engineer and engineering leader. I recently left my job at Spotify after 6 years, there, I lead product organisation of 60 folks and experienced what it's like to grow at tremendous speed and eventually execute a multi billion dollar IPO",
+    "Hi! I am a technologist that spent the last two decades building software as an engineer and engineering leader. I recently left my job at Spotify after 6 years, there, I lead a product organisation of 60 folks and experienced what it's like to grow at tremendous speed and eventually execute a multi billion dollar IPO",
   paragraphTwo:
     "Currently I'm the Founder and CEO of Datia, a technology company that has the vision to work to accelerate the world's transition towards sustainable finance.",
   paragraphThree:
